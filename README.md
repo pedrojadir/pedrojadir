@@ -3,7 +3,7 @@
 
 Olá, sejam bem vindos. Obrigado pela visita e se sintam a vontade para contribuir com os meus projetos.
 
-Sou estudante dos cursos de Ciência de Dados.
+Sou estudante do curso de Ciência de Dados.
 Foco meus estudos em análise da dados e BI. 
 
 Grande Abraço
