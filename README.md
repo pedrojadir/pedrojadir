@@ -1,7 +1,7 @@
 
 ### Olá 👋
 
-Olá, sejam bem vindos. Obrigado pela visita e se sintam a vontade para contribuir com os meus projetos.
+Olá, sejam bem vindos. Obrigado pela visita e sintem-se à vontade para contribuir com os meus projetos.
 
 Sou estudante do curso de Ciência de Dados.
 Foco meus estudos em análise da dados e BI. 
@@ -13,7 +13,7 @@ Hello! Welcome. Thank you for visiting and feel free to contribute to my project
 I am a student of the Data Science courses.
 I focus my studies on data analysis and BI.
 
-Big hug
+
 
 
   
