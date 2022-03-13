@@ -3,14 +3,15 @@
 
 Olá, sejam bem vindos. Obrigado pela visita e sintam-se à vontade para contribuir com os meus projetos.
 
-Sou estudante do curso de Ciência de Dados.
+Sou estudante do curso de Análise e desenvolvimento de Sistemas.
 Foco meus estudos em análise da dados e BI. 
 
 Grande Abraço
 
 Hello! Welcome. Thank you for visiting and feel free to contribute to my projects.
 
-I am a student of the Data Science course.
+I am a student of the 
+Analysis and systems development course.
 I focus my studies on data analysis and BI.
 
 
