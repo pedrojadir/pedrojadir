@@ -1,4 +1,5 @@
 
+
 ### Olá 👋
 
 Olá, sejam bem vindos. Obrigado pela visita e sintam-se à vontade para contribuir com os meus projetos.
@@ -18,6 +19,7 @@ I have a degree in Systems Analysis and Development.
 I love data analysis, software quality and information security.
 
 Big hug
+
 
 
 
