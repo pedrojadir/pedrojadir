@@ -3,16 +3,21 @@
 
 Olá, sejam bem vindos. Obrigado pela visita e sintam-se à vontade para contribuir com os meus projetos.
 
-Sou estudante do curso de Análise e desenvolvimento de Sistemas.
-Foco meus estudos em análise da dados e BI. 
+Sou graduado em Análise e desenvolvimento de Sistemas.
+
+Adoro análise de dados, qualidade de sofware e segurança da informação.
 
 Grande Abraço
 
+Hello 👋
+
 Hello! Welcome. Thank you for visiting and feel free to contribute to my projects.
 
-I am a student of the 
-Analysis and systems development course.
-I focus my studies on data analysis and BI.
+I have a degree in Systems Analysis and Development.
+
+I love data analysis, software quality and information security.
+
+Big hug
 
 
 
