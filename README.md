@@ -6,7 +6,7 @@ Olá, sejam bem vindos. Obrigado pela visita e sintam-se à vontade para contrib
 
 Sou graduado em Análise e desenvolvimento de Sistemas.
 
-Adoro análise de dados, qualidade de sofware e segurança da informação.
+Faço MBA em Gestão de Projetos e uma Especialização em Data Center e Computação em Nuvem
 
 Grande Abraço
 
@@ -14,9 +14,9 @@ Hello 👋
 
 Hello! Welcome. Thank you for visiting and feel free to contribute to my projects.
 
-I have a degree in Systems Analysis and Development.
+I have a degree in Systems Analysis and development.
 
-I love data analysis, software quality and information security.
+I have an MBA in Project Management and a Specialization in Data Center and Cloud Computing
 
 Big hug
 
