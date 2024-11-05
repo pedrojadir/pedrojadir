@@ -13,7 +13,9 @@ Estou estudando e aprimorando minhas habilidades com diversas ferramentas e tecn
 ### Linguagens de Programação: 
 Python, SQL
 
-### Machine Learning e Inteligência Artificial: Scikit-Learn, TensorFlow, PyTorch
+### Machine Learning e Inteligência Artificial:
+
+Scikit-Learn, TensorFlow, PyTorch
 
 ### Engenharia de Dados: 
 Apache Airflow, Docker, Spark
