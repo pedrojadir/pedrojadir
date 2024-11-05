@@ -1,17 +1,33 @@
-### Olá 👋
-Sou um profissional dedicado com ampla formação em tecnologia. Sou Graduado em Análise e Desenvolvimento de Sistemas, graduando em Matemática (Bacharelado). Possuo especializações em Segurança da Informação, Inteligência Artificial, Machine Learning, e Computação em Nuvem e MBA em Gerenciamento de Projetos.
+### Olá, bem-vindo(a) ao meu GitHub! 👋
 
-Meu foco atual está na cibersegurança, integrando IA, ML, Ciência de Dados e Computação em Nuvem para aprimorar estratégias de defesa e ataque em ambientes modernos. Estou explorando maneiras de aplicar essas tecnologias para fortalecer a segurança digital em diferentes setores.
+Sou Pedro, um profissional apaixonado por tecnologia com um forte background acadêmico e experiência em diversas áreas de TI. Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Matemática (Bacharelado). Possuo também pós-graduações e especializações em Inteligência Artificial, Machine Learning, Ciência de Dados e Computação em Nuvem, além de um MBA em Gerenciamento de Projetos.
 
-Obrigado pela visita e sinta-se à vontade para contribuir com meus projetos.
+##Objetivo e Propósito
+
+Atualmente, estou focado em me tornar um Full Stack Data Scientist, buscando desenvolver habilidades em todas as etapas do ciclo de ciência de dados, desde a ingestão de dados até a modelagem, deploy e visualização. Tenho como objetivo aplicar essas competências para gerar insights significativos e valor para o negócio, trabalhando em ambientes com grande volume de dados e automação de processos.
+
+##Ferramentas e Tecnologias
+
+Estou estudando e aprimorando minhas habilidades com diversas ferramentas e tecnologias, incluindo:
+
+#Linguagens de Programação: Python, SQL
+
+#Machine Learning e Inteligência Artificial: Scikit-Learn, TensorFlow, PyTorch
+
+#Engenharia de Dados: Apache Airflow, Docker, Spark
+
+#Banco de Dados: MySQL, PostgreSQL, e Data Lakes
+
+#Deploy e Monitoramento de Modelos: MLflow, DVC
+
+#Visualização de Dados: Matplotlib, Seaborn, Plotly, Power BI
+
+
+Vamos Conectar!
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar meu progresso. Estou sempre em busca de novas ideias e oportunidades para aprender e colaborar em projetos desafiadores. Sinta-se à vontade para entrar em contato ou me conectar nas redes sociais:
+
+https://www.linkedin.com/in/pedrojadirborges
 
 Saudações,
-
-### Hello 👋
-I am a dedicated professional with extensive training in technology. I have a degree in Systems Analysis and Development, majoring in Mathematics (Bachelor). I have specializations in Information Security, Artificial Intelligence, Machine Learning, and Cloud Computing and an MBA in Project Management.
-
-My current focus is on cybersecurity, integrating AI, ML, Data Science, and Cloud Computing to enhance defense and attack strategies in modern environments. I am exploring ways to apply these technologies to strengthen digital security across various sectors.
-
-Thank you for visiting and feel free to contribute to my projects.
-
-Best regards,
+Pedro
