@@ -10,18 +10,21 @@ Atualmente, estou focado em me tornar um Full Stack Data Scientist, buscando des
 
 Estou estudando e aprimorando minhas habilidades com diversas ferramentas e tecnologias, incluindo:
 
-# Linguagens de Programação: Python, SQL
+### Linguagens de Programação: Python, SQL
 
-# Machine Learning e Inteligência Artificial: Scikit-Learn, TensorFlow, PyTorch
+### Machine Learning e Inteligência Artificial: Scikit-Learn, TensorFlow, PyTorch
 
-# Engenharia de Dados: Apache Airflow, Docker, Spark
+### Engenharia de Dados: 
+Apache Airflow, Docker, Spark
 
-# Banco de Dados: MySQL, PostgreSQL, e Data Lakes
+### Banco de Dados: 
+MySQL, PostgreSQL, e Data Lakes
 
-# Deploy e Monitoramento de Modelos: MLflow, DVC
+### Deploy e Monitoramento de Modelos: 
+MLflow, DVC
 
-# Visualização de Dados: Matplotlib, Seaborn, Plotly, Power BI
-
+### Visualização de Dados: 
+Matplotlib, Seaborn, Plotly, Power BI
 
 Vamos Conectar!
 
