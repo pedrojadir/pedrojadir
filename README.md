@@ -10,7 +10,8 @@ Atualmente, estou focado em me tornar um Full Stack Data Scientist, buscando des
 
 Estou estudando e aprimorando minhas habilidades com diversas ferramentas e tecnologias, incluindo:
 
-### Linguagens de Programação: Python, SQL
+### Linguagens de Programação: 
+Python, SQL
 
 ### Machine Learning e Inteligência Artificial: Scikit-Learn, TensorFlow, PyTorch
 
