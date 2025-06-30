@@ -1,39 +1,53 @@
-# Olá, bem-vindo(a) ao meu GitHub! 👋
+# 👋 Olá! Eu sou Pedro Jadir Borges
 
-Sou Pedro, um profissional apaixonado por tecnologia com um forte background acadêmico e experiência em diversas áreas de TI. Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente graduando em Matemática (Bacharelado). Possuo também pós-graduações e especializações em Inteligência Artificial, Machine Learning, Ciência de Dados e Computação em Nuvem, além de um MBA em Gerenciamento de Projetos.
+Sou professor, desenvolvedor e pesquisador em formação, com atuação voltada à construção de sistemas inteligentes, automação e soluções aplicadas com foco em **Machine Learning, IA aplicada e Engenharia de Software**.
 
-## Objetivo e Propósitos:
+---
 
-Atualmente, estou focado em me tornar um Full Stack Data Scientist, buscando desenvolver habilidades em todas as etapas do ciclo de ciência de dados, desde a ingestão de dados até a modelagem, deploy e visualização. Tenho como objetivo aplicar essas competências para gerar insights significativos e valor para o negócio, trabalhando em ambientes com grande volume de dados e automação de processos.
+## 🧠 Core 4.0 – Meu Laboratório Pessoal
 
-## Ferramentas e Tecnologias:
+Atualmente estou desenvolvendo o **Core 4.0**, um laboratório local de pesquisa prática em:
 
-Estou estudando e aprimorando minhas habilidades com diversas ferramentas e tecnologias, incluindo:
+- 🧠 **Inteligência Artificial e Machine Learning**
+- 🔁 **MLOps, automação e orquestração de modelos**
+- 📊 **Ciência de Dados e Engenharia de Dados**
+- 🧰 **Infraestrutura local com Docker, Linux, servidores dedicados e redes isoladas**
+- 🛠️ **Integração entre APIs, agentes cognitivos e LLMs privados**
 
-### Linguagens de Programação: 
-Python, SQL
+> O laboratório Core 4.0 é 100% projetado e mantido por mim, e serve como base prática para meus estudos, desenvolvimento de projetos, treinamento de modelos e execução de pipelines de IA de forma local e controlada.
 
-### Machine Learning e Inteligência Artificial:
+---
 
-Scikit-Learn, TensorFlow, PyTorch
+## 📄 Linha de Pesquisa (Mestrado)
 
-### Engenharia de Dados: 
-Apache Airflow, Docker, Spark
+Estou em fase de preparação para ingresso no **mestrado em Ciência da Computação**, com foco em:
 
-### Banco de Dados: 
-MySQL, PostgreSQL, e Data Lakes
+> **Framework Cognitivo Local para Orquestração de Modelos de IA com LLMs e Automação Inteligente**  
+> (tópicos: MLOps local, RAG, agentes autônomos, LLMs privados e observabilidade de IA)
 
-### Deploy e Monitoramento de Modelos: 
-MLflow, DVC
+Este projeto está sendo estruturado para unir IA prática, engenharia de software robusta e arquitetura de sistemas distribuídos, tendo o Core 4.0 como ambiente de desenvolvimento e validação.
 
-### Visualização de Dados: 
-Matplotlib, Seaborn, Plotly, Power BI
+---
 
-Vamos Conectar!
+## 📁 Repositórios em atualização!
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar meu progresso. Estou sempre em busca de novas ideias e oportunidades para aprender e colaborar em projetos desafiadores. Sinta-se à vontade para entrar em contato ou me conectar nas redes sociais:
+Em breve, publicarei os seguintes projetos e módulos:
 
-https://www.linkedin.com/in/pedrojadirborges
+- `core-ml-framework`: estrutura de orquestração local de modelos
+- `sentinel-observer`: observabilidade e logging cognitivo
+- `llm-agent-prototype`: agente autônomo com controle e execução local
+- `docker-core4`: base de containers padronizados para testes e deploy
+- `infra-core`: infraestrutura do laboratório com Docker, NGINX, PostgreSQL, Redis e monitoramento
 
-Saudações,
-Pedro
+> Enquanto atualizo os repositórios, sinta-se à vontade para me acompanhar por aqui e entrar em contato!
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedrojadir/)
+- 🌐 Em breve: página pessoal com artigos, projetos e experimentos
+
+---
+
+**“Pesquisa aplicada é aquela que transforma conhecimento em impacto real.”**  
