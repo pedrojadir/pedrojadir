@@ -45,7 +45,7 @@ Em breve, publicarei os seguintes projetos e módulos:
 
 ## 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrojadir/)
+- 💼 [LinkedIn]: https://www.linkedin.com/in/pedrojadirborges/
 - 🌐 Em breve: página pessoal com artigos, projetos e experimentos
 
 ---
